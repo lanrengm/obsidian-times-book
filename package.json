@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-times-book",
 	"version": "0.0.1",
-	"description": "Times Book of Obsidian",
+	"description": "You can write history by yourself.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
